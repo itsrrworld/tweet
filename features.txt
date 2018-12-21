@@ -1,0 +1,17 @@
+** FEATURES INCLUDED **
+
+* User Registration with unique username
+* User Login (With session management)
+* follow or unfollow any user
+* create, read & delete tweet
+* Unit tests for all endpoints
+* Like or Unlike any tweet
+* Retweet
+* Replies & Threading
+
+** EXTENDED FEATURES **
+
+* Recommended users
+* Detailed View of any user
+* Concept of Hashtags(Simply put '#' before any text you are gonna tweet)
+* search any tweet or user
